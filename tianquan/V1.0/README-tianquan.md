@@ -30,7 +30,9 @@
 * 复位按键
 
 # 核心板实物图
-
+![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%B0%81%E9%9D%A21.jpg)
+![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%AE%9E%E7%89%A92.jpg)
+![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%B0%BA%E5%AF%B83.jpg)
 
 # 附加说明
 如有错误之处欢迎指正！
