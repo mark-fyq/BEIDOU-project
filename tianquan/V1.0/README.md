@@ -4,8 +4,19 @@
 # 项目说明
 * 已上传的文件包括核心板原理图、PCB、M.2接口的封装（AD）。  
 
+# 更新记录
+2021年11月28日
+* 创建开源工程。  
+
+2021年11月29日
+* README新增更新记录和核心板电路与PCB设计说明。
+* 修正原理图与PCB网络对应错误。
+* 将SW下载由额外接口改为M.2接口引出。
+* 将PCB中GND网络的PIN脚由全铺铜改为与铺铜“十字花”连接。
+
+
 # 注意事项
-* 核心板打板请选择板厚==0.8mm==、绿色，并备注：不做半孔工艺（土豪无所谓）==PS：一般工艺都是焊盘镀锡，插拔次数有限！==
+* 核心板打板请选择板厚**0.8mm**、绿色，并备注：不做半孔工艺（土豪无所谓）**PS：一般工艺都是焊盘镀锡，插拔次数有限！**
 * 核心板PCB设计按照回流焊工艺（实际用热风枪吹），所以没有预留手焊空间。
 * 有可能会出现PCB与原理图相差的地方，一切以PCB为准。
 * 晶振要注意匹配电容不一定是12PF，购买时注意商家的备注。
@@ -22,7 +33,7 @@
 * 全功能及验证
 
 # 核心板硬件功能
-* SW下载接口
+* SW下载接口（后续版本由M.2接口引出）
 * 5V转3V3电源转换
 * 串口转USB
 * 16MBit SPI FLASH
@@ -30,9 +41,12 @@
 * 复位按键
 
 # 核心板实物图
-![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%B0%81%E9%9D%A21.jpg)
-![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%AE%9E%E7%89%A92.jpg)
-![image](https://raw.githubusercontent.com/mark-fyq/BEIDOU-project/main/tianquan/V1.0/%E5%AE%9E%E7%89%A9%E5%9B%BE/%E5%B0%BA%E5%AF%B83.jpg)
+![image](https://image.lceda.cn/pullimage/I4p8XzYfqIKVa1GnMiaELtX9HP1NJNSBpeo6kpF6.jpeg)
+![image](https://image.lceda.cn/pullimage/1iBvG5WuaD2ZQL9TM5EkACYLc1YdyW8LsSiyeXcK.jpeg)
+![image](https://image.lceda.cn/pullimage/d1Njmc1Fx2xNhAKLlW7Q0XTZn79c4tP18jEd0KEP.jpeg)
+
+# 核心板电路及PCB设计
+AD工程文件均在附件，请自行下载阅读；所有原理都是开源资料没啥好说的；
 
 # 附加说明
 如有错误之处欢迎指正！
