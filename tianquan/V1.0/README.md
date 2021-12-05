@@ -50,6 +50,7 @@
 # 核心板实物图
 <img src="https://note.youdao.com/yws/api/personal/file/WEB6fcfa6da02f946403bdc9f698390e793?method=download&shareKey=d339eadb7aa42a86350d6023ac862496" alt="image" style="zoom:50%;" />
 
+
 <img src="https://note.youdao.com/yws/api/personal/file/WEB2265ab93cd0602ce548b2c318d845cf2?method=download&shareKey=1d5c4b1e348459c6e97eaf658c9e98c2" alt="image" style="zoom:50%;" />
 
 <img src="https://note.youdao.com/yws/api/personal/file/WEBc9c810146f6b315e35930ef394197548?method=download&shareKey=deee4ec76e6c228ba9b45fb6633cb295" alt="image" style="zoom:50%;" />
